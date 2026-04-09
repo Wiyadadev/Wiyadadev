@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Wiyada</h1>
+<h3 align="center">Frontend Developer from Thailand 🇹🇭</h3>
 
-<!--
-**Wiyadadev/Wiyadadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://wiyadadev.github.io/portfolio">
+    🌐 Portfolio
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I build real websites using HTML, CSS, JavaScript  
+- 💼 Open for freelance work  
+- ⚡ Fast and reliable  
+
+---
+
+### 🛠️ Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,firebase" />
+</p>
+
+---
+
+### 💻 Projects
+- 🔗 [Bar Booking System](https://wiyadadev.github.io/portfolio/booking.html)
+- 🔗 [Portfolio Website](https://wiyadadev.github.io/portfolio)
+
+---
+
+### 📫 Contact
+- Email: your@email.com
