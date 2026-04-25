@@ -1,62 +1,43 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=200&section=header&text=Wiyada&fontSize=40&fontColor=ffffff"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Wiyada</h1>
-<h3 align="center">Frontend Developer from Thailand 🇹🇭</h3>
+<h1 align="center">Hey 👋 I'm Wiyada</h1>
+<h3 align="center">💻 Developer in progress | Bot Builder | Samui 🌴</h3>
 
 <p align="center">
-  <a href="https://wiyadadev.github.io/portfolio">
-    🌐 View My Portfolio
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=22&center=true&vCenter=true&width=500&lines=Building+Telegram+Bots...;Learning+Coding+Everyday...;Future+Online+Worker+💸">
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I build real websites using HTML, CSS, JavaScript  
-- 💼 Open for freelance work  
-- ⚡ Fast, clean, responsive design  
+### 🖤 About Me
+- 🌊 Love the sea & peaceful life  
+- 🤖 Building bots & automation  
+- 🐦 2 parrots = my best friends  
+- 💡 Learning to make money online  
 
 ---
 
-### 🛠️ Skills
+### ⚡ Tech I’m learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github" />
 </p>
 
 ---
 
-### 🔥 Tools & Tech
+### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wiyadadev&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-### 💻 Projects
-- 🔗 [Bar Booking System](https://wiyadadev.github.io/portfolio/booking.html)
-- 🔗 [Portfolio Website](https://wiyadadev.github.io/portfolio)
-
----
-
-### 📊 GitHub Stats
+### 🔥 Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wiyadadev&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wiyadadev&theme=react-dark" />
 </p>
 
 ---
 
-### ⚡ Activity
+### 🌐 Contact
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wiyadadev&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=footer"/>
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram"></a>
 </p>
