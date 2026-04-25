@@ -1,5 +1,5 @@
 <h1 align="center"
-  <img src=https://raw.githubusercontent.com/Wiyadadev/portfolio/blob/main/S__6529026.jpg width="100%"/>
+  <img src="https://raw.githubusercontent.com/Wiyadadev/portfolio/blob/main/S__6529026.jpg width="100%"/>
 </h1>
   >Hey 👋 I'm Wiyada</h1>
 <h3 align="center">💻 Developer in progress | Bot Builder | Samui 🌴</h3>
