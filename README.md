@@ -8,13 +8,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=22&center=true&vCenter=true&width=500&lines=Building+Telegram+Bots...;Learning+Coding+Everyday...;Future+Online+Worker+💸">
 </p>
 
----
+--
+## Hey 👋 I'm Wiyada
+
+💻 Developer in progress • 🤖 Bot & Automation Builder • 🌴 Based in Samui
 
 ### 🖤 About Me
-- 🌊 Love the sea & peaceful life  
-- 🤖 Building bots & automation  
-- 🐦 2 parrots = my best friends  
-- 💡 Learning to make money online  
+- 🌊 Love the sea & quiet, focused work
+- 🤖 Building bots, workflows, and small systems that run 24/7
+- 🐦 2 parrots = my best friends & co-workers
+- 💡 Learning to make money online with code + data + automation
 
 ---
 
@@ -24,6 +27,23 @@
 </p>
 
 ---
+### 🚀 Now Building
+
+- **Vyada Systems** – my personal lab for:
+  - data arbitrage (เก็งกำไรข้อมูล)
+  - AI-powered bots
+  - 24/7 automation workflows
+### 🧪 Featured Projects
+
+- [AI-Telegram-Bot](link)  
+  Telegram bot for product ordering with menu + payment integration (Python).
+
+- [portfolio](link)  
+  Personal portfolio website – frontend & UI experiments.
+
+- [automation-playground](link)   
+  Small scripts & workflows for 24/7 automation and data experiments.
+
 
 ### 📊 My GitHub Stats
 <p align="center">
