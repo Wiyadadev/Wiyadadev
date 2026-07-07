@@ -78,7 +78,7 @@ My personal lab for:
 |--------|----------|
 | 🤖 AI Applications with Python and Flask | IBM |
 | 🐍 Artificial Intelligence & Python Development | IBM |
-
+- [Claude 101 – Anthropic](https://verify.skilljar.com/c/b8by4nh3myco) ✅
 ---
 
 ## 🌐 Contact
