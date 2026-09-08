@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Hi%20👋,%20I'm%20Shady&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shady</h1>
 <h3 align="center">Backend Developer</h3>
 <h4 align="center">Just Code It 💻</h4>
