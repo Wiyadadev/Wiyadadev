@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Hi%20👋,%20I'm%20Shady&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Backend%20Developer&descSize=18&descAlignY=62" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Hi%20👋,%20I'm%20Shady&template=pop-art-halftone&height=200" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shady</h1>
