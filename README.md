@@ -1,88 +1,68 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Shady</h1>
+<h3 align="center">Backend Developer</h3>
+<h4 align="center">Just Code It 💻</h4>
 
-[![](https://raw.githubusercontent.com/Wiyadadev/portfolio/main/S__6529026.jpg)](https://raw.githubusercontent.com/Wiyadadev/portfolio/main/S__6529026.jpg)
-
-# Hey 👋 I'm Wiyada
-
-### 💻 Developer in progress | Bot Builder | Samui 🌴
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&size=22&center=true&vCenter=true&width=500&lines=Building+real-world+web+apps...;Learning+Coding+Everyday...;Future+Online+Worker+💸)](https://git.io/typing-svg)
-
-</div>
+<p align="center">Building reliable backend systems with clean architecture and scalable solutions.</p>
 
 ---
 
-## 🖤 About Me
+### 🚀 About Me
 
-- 🌊 Love the sea & quiet, focused work
-- 🤖 Building bots, workflows, and small systems that run 24/7
-- 🍸 Recently shipped a **live QR ordering system** for a real nightclub in Koh Samui
-- 🐦 2 parrots = my best friends & co-workers
-- 💡 Learning to make money online with code + data + automation
-
----
-
-## ⚡ Tech I'm Learning
-
-[![](https://skillicons.dev/icons?i=html,css,js,python,github,firebase)](https://skillicons.dev)
+- 🎓 I'm a **final-year Computer Engineering student** focused on backend development.
+- 🧩 I enjoy building scalable, production-ready **APIs with Python**, and continuously improving my understanding of real-world backend systems.
+- 📚 Currently learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+- 🎯 My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
 
 ---
 
-## 🚀 Featured Projects
+### 📌 Featured Projects
 
-### 🍸 LIL CLUB — QR Code Drink Ordering System
-> *Real-world web app · Live & in active use · Koh Samui, Thailand*
-
-| | |
-|---|---|
-| 🌐 **Live** | [lil-club-samui.vercel.app](https://lil-club-samui.vercel.app) |
-| 📄 **Case Study** | [View Portfolio](https://lil-club-samui.vercel.app/portfolio.html) |
-| ⚙️ **Stack** | HTML · CSS · JavaScript · Firebase · Vercel |
-| 🌍 **Languages** | Thai · English · Russian · Chinese · French |
-
-**What I built:**
-- 📱 QR Code per table → auto-detects table number on scan
-- 🌍 5-language menu with automatic browser language detection  
-- 🛒 Shopping cart + special notes + order confirmation
-- 🔥 Real-time bar dashboard — orders appear instantly via Firebase
-- ⚡ Order status: ⏳ Pending → 🔥 Making → ✅ Ready → 🗑 Done
-- 🎂 Birthday mode — photo upload, confetti & music
-- 🖨️ QR Code generator for 13 tables (T1–T10, VIP1–3)
+- **[Wiyadadev.github.io](https://github.com/Wiyadadev/Wiyadadev.github.io)** — Modern and responsive web developer portfolio showcasing my projects and experience.
+- **[lil-club-samui](https://github.com/Wiyadadev/lil-club-samui)** — AI-powered web app for hotel WiFi and personalized drink recommendations.
+- **[Vopalo_Automation](https://github.com/Wiyadadev/Vopalo_Automation)** — AI automation platform for content creation and workflow optimization.
+- **[Ai-Telegram-bot](https://github.com/Wiyadadev/Ai-Telegram-bot)** — Telegram bot for product ordering with Venmo and payment integration (Python).
+- **[portfolio](https://github.com/Wiyadadev/portfolio)** — My personal portfolio website showcasing my projects and skills as a frontend developer.
 
 ---
 
-### 🤖 Now Building — Vyada Systems
+### 🤝 Connect with me
 
-My personal lab for:
-- data arbitrage (เก็งกำไรข้อมูล)
-- AI-powered bots & Telegram automation
-- 24/7 automation workflows
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wiyadadev&show_icons=true&theme=tokyonight)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wiyadadev&theme=react-dark)](https://github.com/Wiyadadev)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Wiyadadev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/Wiyadadev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🎓 Education
+### 💻 Tech Stack
 
-| Course | Provider |
-|--------|----------|
-| 🤖 AI Applications with Python and Flask | IBM |
-| 🐍 Artificial Intelligence & Python Development | IBM |
-- [Claude 101 – Anthropic](https://verify.skilljar.com/c/b8by4nh3myco) ✅
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlalchemy,docker,redis,github,vscode,html,css,c,aws" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,git,gitlab,gcp" />
+</p>
+
 ---
 
-## 🌐 Contact
+### 📊 GitHub Stats
 
-[![Telegram](https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram)](#)
-[![Portfolio](https://img.shields.io/badge/🍸_Portfolio-C8002E?style=for-the-badge)](https://lil-club-samui.vercel.app/portfolio.html)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wiyadadev&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wiyadadev&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wiyadadev&theme=react-dark&hide_border=true" />
+</p>
