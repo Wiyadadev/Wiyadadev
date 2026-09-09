@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Hi%20👋,%20I'm%20Shady&template=pop-art-halftone&height=200" />
+  <img src="./banner.jpg" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shady</h1>
-<h3 align="center">Backend Developer</h3>
-<h4 align="center">Just Code It 💻</h4>
-
-<p align="center">Building reliable backend systems with clean architecture and scalable solutions.</p>
+<p align="center">
+  <b>Building bots. Solving problems. Creating freedom.</b>
+</p>
 
 ---
 
