@@ -1,71 +1,74 @@
-<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/e043c1d8-444e-40f6-bd8b-09f1cdb1b6b1" />
 <p align="center">
- 
+  <img src="./banner.png" width="100%" alt="Wiyadadev — an illustrated late-night coding studio in navy and lavender" />
 </p>
 
 <p align="center">
-  <b>Building bots. Solving problems. Creating freedom.</b>
+  <b>Building bots. Solving problems. Creating freedom.</b><br />
+  <sub>Computer Engineering · Backend Development · Thoughtful Automation</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Wiyadadev"><img src="https://img.shields.io/badge/GitHub-Wiyadadev-171b2b?style=for-the-badge&amp;logo=github&amp;logoColor=c4b5fd" alt="GitHub: Wiyadadev" /></a>
+  <a href="https://linkedin.com/in/Wiyadadev"><img src="https://img.shields.io/badge/LinkedIn-Connect-171b2b?style=for-the-badge&amp;logoColor=7dd3fc" alt="Connect on LinkedIn" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🌙 About Me
 
-- 🎓 I'm a **final-year Computer Engineering student** focused on backend development.
-- 🧩 I enjoy building scalable, production-ready **APIs with Python**, and continuously improving my understanding of real-world backend systems.
-- 📚 Currently learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
-- 🎯 My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+I'm a **final-year Computer Engineering student** focused on backend development. I enjoy turning real-world problems into useful APIs, bots, and automated workflows.
 
----
+```python
+wiyadadev = {
+    "focus": ["Python", "Backend Development", "Automation"],
+    "learning": [
+        "FastAPI", "PostgreSQL", "SQLAlchemy",
+        "Docker", "Redis", "Data Structures & Algorithms"
+    ],
+    "goal": "Build clean, reliable systems that last."
+}
+```
 
-### 📌 Featured Projects
+> Write clean code. Keep learning. Build something useful.
 
-- **[Wiyadadev.github.io](https://github.com/Wiyadadev/Wiyadadev.github.io)** — Modern and responsive web developer portfolio showcasing my projects and experience.
-- **[lil-club-samui](https://github.com/Wiyadadev/lil-club-samui)** — AI-powered web app for hotel WiFi and personalized drink recommendations.
-- **[Vopalo_Automation](https://github.com/Wiyadadev/Vopalo_Automation)** — AI automation platform for content creation and workflow optimization.
-- **[Ai-Telegram-bot](https://github.com/Wiyadadev/Ai-Telegram-bot)** — Telegram bot for product ordering with Venmo and payment integration (Python).
-- **[portfolio](https://github.com/Wiyadadev/portfolio)** — My personal portfolio website showcasing my projects and skills as a frontend developer.
+### 🧰 Tech Stack
 
----
+<p><b>Backend &amp; systems · currently exploring</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,redis&amp;theme=dark" alt="Python, FastAPI, PostgreSQL, Docker, Redis" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SQLAlchemy-171b2b?style=flat-square&amp;logo=sqlalchemy&amp;logoColor=c4b5fd" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-171b2b?style=flat-square&amp;logoColor=7dd3fc" alt="Data Structures and Algorithms" />
+</p>
 
-### 🤝 Connect with me
+<p><b>Web &amp; development tools</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nextjs,c,git,github,gitlab,vscode,aws,gcp&amp;theme=dark&amp;perline=5" alt="HTML, CSS, Next.js, C, Git, GitHub, GitLab, VS Code, AWS, Google Cloud" />
+</p>
+
+### 🪐 Featured Projects
+
+| Project | What I'm building |
+| :--- | :--- |
+| **[Vvyada Automation](https://github.com/Wiyadadev/Vvyada_Automation)** | AI automation for content creation and workflow optimization. |
+| **[AI Telegram Bot](https://github.com/Wiyadadev/Ai-Telegram-bot)** | A Python Telegram bot for product ordering with payment integration. |
+| **Lil Club Samui · private project** | An AI-powered web app for bars with ordering and personalized drink recommendations. |
+| **[Wiyadadev.github.io](https://github.com/Wiyadadev/Wiyadadev.github.io)** | A responsive developer portfolio showcasing projects and experience. |
+| **[Portfolio](https://github.com/Wiyadadev/portfolio)** | My personal portfolio featuring frontend projects and skills. |
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Wiyadadev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Wiyadadev?tab=overview">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wiyadadev&amp;theme=tokyonight" width="100%" alt="Wiyadadev's GitHub profile summary and contribution activity" />
   </a>
-  <a href="https://linkedin.com/in/Wiyadadev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Wiyadadev?tab=repositories">Explore my repositories ↗</a>
 </p>
 
 ---
 
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlalchemy,docker,redis,github,vscode,html,css,c,aws" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,git,gitlab,gcp" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wiyadadev&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wiyadadev&theme=dark&hide_border=true" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wiyadadev&theme=react-dark&hide_border=true" />
-</p>
+<p align="center"><sub>One problem, one commit, one step forward.</sub></p>
