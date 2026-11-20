@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Wiyadadev — an illustrated late-night coding studio in navy and lavender" />
-</p>
+  <img src="./banner-mono.png" width="100%">
+
 
 <p align="center">
   <b>Building bots. Solving problems. Creating freedom.</b><br />
